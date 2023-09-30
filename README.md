@@ -26,5 +26,4 @@ Don't just passively consume content; actively engage with it. The YouTube Quiz 
 The mission is to transform YouTube from a passive entertainment platform into a vibrant learning ecosystem. By actively engaging with video content, we can retain information better and continue to grow.
 
 🔮 Elevate your YouTube experience. Dive into deeper comprehension with YouTube Quiz App. The power to learn is in your hands!
-![image](https://github.com/Bhavesh-Sony/YoutubeQuizApp/assets/142330057/0e019302-b6da-4678-92b7-5933d928be03)
 
