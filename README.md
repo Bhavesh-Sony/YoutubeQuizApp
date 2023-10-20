@@ -4,6 +4,7 @@ YouTube Quiz App: Enhance Your Understanding of YouTube Videos
 📚 Ever watched an insightful YouTube video but wondered if you truly grasped the content? The YouTube Quiz App is here to transform your passive viewing into active learning! 🎥
 
 🔗 Link to Project: [YouTube Quiz App]( https://youtube-quiz-app.streamlit.app/)
+Tutorial and project overview: [Link](https://www.youtube.com/watch?v=XCUCUBkBe1o)
 
 🧠 About the Project:
 YouTube Quiz App is your key to unlocking a deeper understanding of the YouTube videos you watch. I've harnessed the power of OpenAI and Langchain to create an intelligent quiz generator that checks your comprehension of YouTube videos with subtitles.
